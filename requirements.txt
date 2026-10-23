@@ -1,0 +1,10 @@
+langchain-openai
+langchain-core
+langchain
+langgraph
+chromadb
+python-dotenv
+httpx
+pandas
+typing_extensions
+ipython
